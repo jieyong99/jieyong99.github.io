@@ -1,33 +1,19 @@
+# Gemfile 예시 (기존 내용에 추가하거나 수정)
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-gem "jekyll", "~> 3.9"
+# Jekyll 관련 젬
+gem "jekyll", "~> 4.0" # Jekyll 4.x 버전을 사용합니다.
+gem "jekyll-feed", "~> 0.12" # 피드 플러그인 (있다면)
+gem "jekyll-seo-tag", "~> 2.6" # SEO 태그 플러그인 (있다면)
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "minima", "~> 2.0"
+# Ruby 3.x 호환성 문제 해결
+gem "base64"
+gem "webrick"
+gem "rexml"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+# 혹시 필요할 수 있는 다른 젬
+gem "liquid"
+gem "rouge" # 코드 하이라이팅
+gem "kramdown" # 마크다운 파서
 
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-email-protect"
-end
-
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-# Performance-booster for watching directories on Windows
-# Version updated to 0.2: https://github.com/luost26/academic-homepage/issues/23
-gem "wdm", "~> 0.2" if Gem.win_platform?
-
-gem "webrick", "~> 1.7"
-gem "kramdown-parser-gfm"
+gem "jekyll-email-protect"
