@@ -21,7 +21,7 @@ linkedin: jieyong-kim-452508291
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi! My name is Jieyong Kim and I am an M.S. student at the Graduate School of Artificial Intelligence, <a href="https://diyonsei.notion.site/">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io/">Dongha Lee</a>.
+    Hi! My name is Jieyong Kim, an M.S. student at the Graduate School of Artificial Intelligence, Yonsei University.  I am advised by Prof. <a href="https://donalee.github.io/">Dongha Lee</a> in the <a href="https://diyonsei.notion.site/">Data & Language Intelligence Lab</a>.
   </p>
   <p>
      My research explores how to extract meaningful insights from data and maximize their utility through the integration of AI. I am particularly interested in adapting and personalizing large language models (LLMs) to build systems that can effectively operate in real-world scenarios. By aligning AI behavior with user intent and contextual needs, my work aims to make AI systems more practical, adaptive, and impactful in everyday applications.
@@ -35,20 +35,31 @@ education:
   - name: Yonsei University
     logo: assets/images/badges/yonsei_logo.png
     position: >-
-      Department of Artificial Intelligence <br/>
-      M.S. Student
+      M.S. in Artificial Intelligence
     date: Sep. 2024 - present
   - name: Yonsei University
     logo: assets/images/badges/yonsei_logo.png
     position: >-
-      B.S. in Computer Science and Engineering
+      B.S. in Computer Science
     date: Mar. 2019 - Sep. 2024
 
 experience:
-  - name: Yonsei University
+  - name: DLI Lab, Yonsei University
     logo: assets/images/badges/yonsei_logo.png
     position: Research Intern
     date: Mar. 2023 - Sep. 2024
+  - name: Republic of Korea Army
+    logo: assets/images/badges/army_logo.jpeg
+    position: Discharged due to injury during training (Private First Class)
+    date: Apr. 2021 - Dec. 2021
+  - name: Computer Science Student Council, Yonsei University
+    logo: assets/images/badges/yonsei_logo.png
+    position: Vice President
+    date: Mar. 2020 - Feb. 2021
+  - name: Computer Science Student Council, Yonsei University
+    logo: assets/images/badges/yonsei_logo.png
+    position: Freshman Class Representative
+    date: Mar. 2019 - Feb. 2020
 # awards:
 #   - name: Award Name 2
 #     date: 2024
