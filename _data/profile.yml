@@ -10,9 +10,9 @@ positions:
 email: "jieyong99@yonsei.ac.kr"
 # cv_link: link-to-your-cv-file
 gscholar: https://scholar.google.com/citations?user=CwkbJjUAAAAJ&hl=ko # This is an example, replace it with your own Google Scholar ID
-github: https://github.com/jieyong99
+github: jieyong99
 linked_in: https://www.linkedin.com/in/jieyong-kim-452508291/
-twitter: your_twitter_id # Do not include the '@' symbol
+twitter: jieyong99
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,13 +22,13 @@ twitter: your_twitter_id # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi! My name is Jieyong Kim and I am an M.S. student at the Graduate School of Artificial Intelligence, <a href="https://diyonsei.notion.site/">Yonsei University Data & Language Intelligence Lab</a>, advised by Prof. <a href="https://donalee.github.io/">Dongha Lee</a>.
   </p>
   <p>
-    Jieyong Kim is an M.S. student at the Graduate School of Artificial Intelligence, Yonsei University. His research explores how to extract meaningful insights from data and maximize their utility through the integration of AI. He is particularly interested in adapting and personalizing large language models (LLMs) to build systems that can effectively operate in real-world scenarios. By aligning AI behavior with user intent and contextual needs, his work aims to make AI systems more practical, adaptive, and impactful in everyday applications.
+     My research explores how to extract meaningful insights from data and maximize their utility through the integration of AI. I am particularly interested in adapting and personalizing large language models (LLMs) to build systems that can effectively operate in real-world scenarios. By aligning AI behavior with user intent and contextual needs, my work aims to make AI systems more practical, adaptive, and impactful in everyday applications.
   </p>
 
-portrait_url: /Users/jieyong/Library/CloudStorage/GoogleDrive-jieyong1216@gmail.com/내 드라이브/Data Intelligence Lab/jieyong99.github.io/assets/images/photos/Selfie_google_scholar.JPG
+portrait_url: assets/images/photos/Selfie_google_scholar.JPG
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -50,7 +50,7 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
+Experiences:
   - name: Award Name 2
     date: 2024
   - name: Award Name 1
