@@ -1,13 +1,13 @@
 primary_name: "Jieyong Kim" # This is your primary name, it will be displayed prominently
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jieyong Kim"
 
 positions:
   - logo: /assets/images/badges/MIT_Social_circle.png # Logo is optional
     name: Position 1 with logo
   - name: Position 2 without logo
 
-email: "your@email.com"
+email: "jieyong99@yonsei.ac.kr"
 # cv_link: link-to-your-cv-file
 gscholar: xFmQpf4AAAAJ # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
